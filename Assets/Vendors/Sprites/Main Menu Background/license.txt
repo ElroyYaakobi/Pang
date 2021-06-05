@@ -1,0 +1,1 @@
+All assets used in the Vendors folder are placeholders and do not include a production-use license.
